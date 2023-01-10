@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "mnist-nbdev"
+  site-url: "https://mlu-wx.github.io/mnist-nbdev"
+  description: "Implement classical mnist classification problem using `optuna` and `nbdev` workflow"
+  repo-branch: main
+  repo-url: "https://github.com/mlu-wx/mnist-nbdev"
